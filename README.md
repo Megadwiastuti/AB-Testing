@@ -9,7 +9,7 @@ adalah bank-full.csv
 2. untuk variabel apakah akhirnya user membuka akun atau tidak bisa menggunakan variabel y
 
 ### 1. Pemahaman konsep A/B Testing
-#### a. Apa nama experimentnya?
+#### a. Apa nama experimentnya?[![paypal.me/anuraghazra]
 menganalisis dengan AB Testing mengenai pengaruh jumlah campaign terhadap keinginan user untuk membuka akun deposit atau tidak.
 
 #### b. Definisikan Hipotesis
